@@ -124,4 +124,4 @@ fig_future = px.line(future_df, y='Future Predicted Price', title='Future Bitcoi
 st.plotly_chart(fig_future)
 
 # Footer
-st.sidebar.markdown("Developed by [sanjay](https://www.linkedin.com/in/sanjaymahadeva7/)")
+st.sidebar.markdown("Developed by [Bindhu K Naik](https://www.linkedin.com/in/harshitha-p-718ba6304/)")
